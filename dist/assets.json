@@ -1,0 +1,63 @@
+{
+  "\u0000virtual:vike:pageConfigValuesAll:client:/pages/about.css": {
+    "file": "assets/static/about.f1aef519.css",
+    "src": "\u0000virtual:vike:pageConfigValuesAll:client:/pages/about.css"
+  },
+  "_chunk-1ce4b06a.js": {
+    "assets": [
+      "assets/static/logo.bebe2e90.svg"
+    ],
+    "css": [
+      "assets/static/onRenderClient.d4835ae9.css"
+    ],
+    "file": "assets/chunks/chunk-1ce4b06a.js"
+  },
+  "_onRenderClient.css": {
+    "file": "assets/static/onRenderClient.d4835ae9.css",
+    "src": "_onRenderClient.css"
+  },
+  "node_modules/vike/dist/esm/client/server-routing-runtime/entry.js": {
+    "dynamicImports": [
+      "virtual:vike:pageConfigValuesAll:client:/pages/_error",
+      "virtual:vike:pageConfigValuesAll:client:/pages/about",
+      "virtual:vike:pageConfigValuesAll:client:/pages/index"
+    ],
+    "file": "assets/entries/entry-server-routing.403914b7.js",
+    "isEntry": true,
+    "src": "node_modules/vike/dist/esm/client/server-routing-runtime/entry.js"
+  },
+  "renderer/logo.svg": {
+    "file": "assets/static/logo.bebe2e90.svg",
+    "src": "renderer/logo.svg"
+  },
+  "virtual:vike:pageConfigValuesAll:client:/pages/_error": {
+    "file": "assets/entries/pages_error.afbaa876.js",
+    "imports": [
+      "_chunk-1ce4b06a.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "virtual:vike:pageConfigValuesAll:client:/pages/_error"
+  },
+  "virtual:vike:pageConfigValuesAll:client:/pages/about": {
+    "css": [
+      "assets/static/about.f1aef519.css"
+    ],
+    "file": "assets/entries/pages_about.7c68ddb8.js",
+    "imports": [
+      "_chunk-1ce4b06a.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "virtual:vike:pageConfigValuesAll:client:/pages/about"
+  },
+  "virtual:vike:pageConfigValuesAll:client:/pages/index": {
+    "file": "assets/entries/pages_index.43163859.js",
+    "imports": [
+      "_chunk-1ce4b06a.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "virtual:vike:pageConfigValuesAll:client:/pages/index"
+  }
+}
